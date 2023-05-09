@@ -20,3 +20,6 @@ To start with the visualization, two card charts are created based on the sales 
 A Bar Chart is also shown which visualises the Profit by State.
 <br>
 And overall all the visualization have been made over the dataset, and finally one slicer is created, for the category, and if we alter the slicer we can see that there is an impact over all the other charts, so concluding this PowerBI is a very powerful tool for data visualization and very user friendly.
+
+## Appendix
+The dashboard which is created using power-bi is present in the [Walmart.pbix]() file.
