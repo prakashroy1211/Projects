@@ -52,5 +52,7 @@ Open the dashboard
 ```bash
   Just double click on the dashboard (Sales_insights_of_Walmart.pbix) file and open it in power-bi application.
 ```
+## Technology Used <a name='technology_used'></a>
 
+<a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power-bi" width="40" height="40"/> </a>
 
