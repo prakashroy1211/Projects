@@ -8,4 +8,5 @@
 * [Technology Used](https://github.com/prakashroy1211/Sales-Insights-of-Walmart/edit/main/README.md###Technology_Used)
 
 ###Demo
+(Dashboard.png)
 
