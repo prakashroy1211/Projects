@@ -26,4 +26,4 @@ The dashboard which is created using power-bi is present in the [Sales_insights_
 <br>
 The dataset of the walmart store is present in [Walmart.xlsx](https://github.com/prakashroy1211/Sales-Insights-of-Walmart/blob/main/Walmart.xlsx) file.
 <br>
-A sample image of the dashboard is stored as [Dashboard.png]() image.
+A sample image of the dashboard is stored as [Dashboard.png](https://github.com/prakashroy1211/Sales-Insights-of-Walmart/blob/main/Dashboard.png) image.
